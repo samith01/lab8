@@ -4,8 +4,8 @@ from math import sqrt, acos, asin, sin, degrees
 import time
 
 # arm lengths and shoulder position (mm)
-LA = 155.0
-LB = 155.0
+LA = 137.0
+LB = 137.0
 AX = -50.0    # shoulder is 50 mm left of the paper
 AY = 139.5    # shoulder is centered on the paper height
 
